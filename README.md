@@ -7,7 +7,7 @@ flonos by pjvi, pirozok2b2t, W0rMm3x и т.д (recode by W0rMm3x)
 
 ## 🖼️ Визуал
 
-![FLONOS GUI]([https://example.com/flonos_gui.png](https://postimg.cc/sMxbqzjs))
+![FLONOS GUI](https://postimg.cc/sMxbqzjs)
 
 ## ⚙️ Системные требования
 
